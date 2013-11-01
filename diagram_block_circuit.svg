@@ -113,11 +113,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="236.18321"
-     inkscape:cy="169.00295"
+     inkscape:zoom="2.8"
+     inkscape:cx="94.517339"
+     inkscape:cy="273.74887"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="g4089-7"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -141,7 +141,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -454,7 +454,7 @@
                width="744.09448"
                height="1052.3622"
                transform="translate(-317.98854,1420.6483)" /></flowRegion><flowPara
-             id="flowPara4085-8-5-7-5">Цифровые</flowPara></flowRoot>        <rect
+             id="flowPara4085-8-5-7-5">Дискретные</flowPara></flowRoot>        <rect
            ry="0"
            style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
            id="rect2989-2-9-8-9-6-4"
@@ -529,7 +529,7 @@
                  xlink:href="#rect2989-2-9-0-5"
                  y="0"
                  x="0" /></flowRegion><flowPara
-               id="flowPara4085-8-6-0">Цифровые высокого уровня</flowPara></flowRoot>          <path
+               id="flowPara4085-8-6-0">Дискретные высокого уровня</flowPara></flowRoot>          <path
              style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none"
              d="m 406.96521,350.81124 0,17.04632 14.77348,0 14.07867,-3.77237"
              id="path5840"
@@ -581,7 +581,7 @@
                  xlink:href="#rect2989-2-9-0-5-1"
                  y="0"
                  x="0" /></flowRegion><flowPara
-               id="flowPara4085-8-6-0-3">Цифровые низкого уровня</flowPara></flowRoot>          <path
+               id="flowPara4085-8-6-0-3">Дискретные низкого уровня</flowPara></flowRoot>          <path
              style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none"
              d="m 97.848478,424.66418 0,-11.79297 14.773482,0 14.07867,-3.77237"
              id="path5840-4"
